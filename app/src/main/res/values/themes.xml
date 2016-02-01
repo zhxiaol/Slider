@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="slider_discrete">
+        <item>@style/LightSliderDiscrete</item>
+        <item>@style/DarkSliderDiscrete</item>
+    </array>
+
+</resources>
